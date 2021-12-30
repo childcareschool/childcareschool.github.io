@@ -27,6 +27,11 @@
   padding: 32px;
   display: none;
 }
+.bars{
+  width: 50px;
+  cursor: pointer;
+  display: none;
+}
 nav{
   flex: 1;
   text-align: right;
