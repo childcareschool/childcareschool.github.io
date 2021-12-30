@@ -170,7 +170,7 @@ a button:hover{
   .bars{
     display: block;
     width: 130px;
-    padding-left: 100px;
+    padding-left: 200px;
   }
   #menuList{
     overflow: hidden;
