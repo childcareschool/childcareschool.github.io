@@ -154,4 +154,13 @@ a button:hover{
   left: -40px;
   top: 8px;
   }
+    .bars{
+    display: block;
+    width: 130px;
+    padding-left: 100px;
+  }
+  #menuList{
+    overflow: hidden;
+    transition: 0.5s;
+  }
 }
